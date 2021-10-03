@@ -1746,8 +1746,6 @@ TorchScript](https://pytorch.org/docs/stable/jit.html) is a way to create serial
   <br />
 </p>
 
-**[R for TensorFlow](https://github.com/rstudio/tensorflow)**
-
 ## R Learning Resources
 
 [R](https://www.r-project.org/) is an open source software environment for statistical computing and graphics. It compiles and runs on a wide variety of  platforms such as Windows and MacOS.
@@ -1827,8 +1825,6 @@ TorchScript](https://pytorch.org/docs/stable/jit.html) is a way to create serial
  <img src="https://user-images.githubusercontent.com/45159366/94961900-6e839280-04aa-11eb-84c6-2fb3f83e2b90.png">
   <br />
 </p>
-
-**[Julia for TensorFlow](https://github.com/malmaud/TensorFlow.jl)**
 
 ## Julia Learning Resources
 
