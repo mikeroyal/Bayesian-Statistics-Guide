@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770920-5ef41362-d4b2-42d2-a9af-ce3893d13337.png">
   <br />
   Bayesian Statistics Guide
 </h1>
@@ -9,7 +9,7 @@
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/135770924-42597d2f-529f-496c-9ca2-523f0a328767.png">
   <br />
 </p>
 
@@ -19,7 +19,6 @@
 </p>
 
 **Bayes' theorem. Source:[mathisfun](https://www.mathsisfun.com/data/bayes-theorem.html)**
-
 
 # Table of Contents
 
